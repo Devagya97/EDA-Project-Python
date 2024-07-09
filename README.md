@@ -12,6 +12,7 @@ Data Cleaning:
 The dataset underwent a thorough cleaning process, including:
 
 Removing null values.
+convertion of datatype of reservation status date to datetime format.
 Dropping unnecessary columns.
 Removing outliers from the Average Daily Rate (ADR) column.
 
